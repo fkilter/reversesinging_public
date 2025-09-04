@@ -1,0 +1,95 @@
+Reverse Singing Challenge – Privacy Policy
+Effective: 2025-09-04
+
+This Privacy Policy explains how F. Kilter (“we”, “us”, “our”) collects, uses, shares, and protects information in the mobile app “Reverse Singing Challenge” (the “App”).
+
+By using the App, you agree to this Policy. If you do not agree, please do not use the App.
+
+Contact: fk.apps.customer@gmail.com
+Data Controller: F. Kilter, Norway
+
+What We Collect
+
+App content you create: audio recordings you make in the App. These are stored locally on your device and are not uploaded to our servers unless you explicitly share them using iOS share features.
+Purchase and subscription data: product identifiers (e.g., “noads”), purchase receipts, transaction timestamps, storefront/country, and a pseudonymous user identifier, processed via Apple (StoreKit) and RevenueCat to enable “Remove Ads.”
+Advertising data:
+Ad request information (e.g., IP address, device type, OS version, app version, language, approximate location), ad identifiers (IDFA where available/consented), and events such as impressions/clicks, handled by Google AdMob and its partners.
+Consent choices collected via Google’s UMP (User Messaging Platform).
+Diagnostics and device data: crash logs, performance, and basic device metadata (model, OS version) used to maintain and improve the App.
+Support messages: if you contact us, we receive the information you send (e.g., email address, message content, attachments).
+How We Use Information
+
+Provide core features: record, play, reverse audio; save content on device.
+Process purchases: verify entitlements and unlock “Remove Ads.”
+Show ads: display personalized or non‑personalized ads based on your consent/preferences and platform rules.
+Improve the App: analyze crashes/performance and fix issues.
+Safety, fraud, legal compliance: detect misuse, comply with requests, and enforce terms.
+Legal Bases (EEA/UK)
+
+Contract: providing core App functionality and processing your purchases.
+Consent: personalized advertising, use of advertising identifiers/cookies, and optional analytics/measurement subject to UMP consent. You can withdraw consent at any time as described below.
+Legitimate interests: app security, fraud prevention, non‑personalized ads (where allowed), and essential diagnostics. Where local law requires consent (e.g., ePrivacy for identifiers), we honor that requirement.
+Third Parties We Use (Key Partners)
+
+Apple (StoreKit): in‑app purchases and receipts; Apple may act as an independent controller for purchase processing.
+Privacy: https://www.apple.com/legal/privacy/
+RevenueCat: purchase entitlement management and paywalls (pseudonymous identifiers, receipts, product metadata).
+Privacy: https://www.revenuecat.com/privacy/
+Google AdMob and UMP: ad delivery, measurement, and consent management.
+Privacy: https://policies.google.com/privacy
+AdMob data use: https://support.google.com/admob/answer/9012903
+Other ad technology partners used by AdMob (Google’s partner list applies). Ad delivery involves device/connection metadata and identifiers.
+We do not sell your personal information for money. When you enable personalized ads, data may be used for “cross‑context behavioral advertising/targeted advertising,” which some laws call “sharing.” You can opt out as described below.
+
+International Transfers
+
+Data may be processed in countries outside your own (including the United States). When required, we rely on appropriate safeguards such as Standard Contractual Clauses and provider certifications. You can contact us for more information.
+
+Data Retention
+
+Audio recordings: remain on your device until you delete them.
+Purchase/entitlement records: retained as needed for accounting, fraud prevention, and legal obligations.
+Ad/diagnostic data: retained by partners per their policies (typically a limited period).
+Support messages: retained as long as needed to address your inquiry and for recordkeeping, then deleted or anonymized.
+Your Choices and Rights
+
+Withdraw or change ad consent (EEA/UK): if the consent prompt (Google UMP) is shown again, update your choices there; otherwise, contact us and we can trigger a consent reset in a subsequent app update or provide instructions. You can also disable “Allow Apps to Request to Track” and reset your advertising identifier in iOS Settings.
+Personalized ads opt‑out (global): choose non‑personalized ads in the consent flow or disable tracking in iOS Settings > Privacy & Security > Tracking.
+Microphone: allow/deny in iOS Settings > Privacy & Security > Microphone. Disabling removes recording functionality.
+Data subject rights (EEA/UK and similar jurisdictions): request access, correction, deletion, restriction, portability, object to processing, or withdraw consent.
+California (CCPA/CPRA):
+Right to know, delete, correct, and to opt out of “sharing” for cross‑context behavioral advertising. Personalization can be disabled via consent settings or system tracking controls. You may also email us to submit a request.
+To exercise rights, contact: [Contact Email]. We may need to verify your identity.
+Children’s Privacy
+
+The App is not directed to children under 13 (or the age of digital consent in your jurisdiction). We do not knowingly collect personal information from children. If you believe a child provided information, contact us to delete it and disable related features. Personalized ads for minors are disabled by our ad provider where applicable.
+
+Security
+
+We use reasonable administrative, technical, and organizational measures designed to protect information (e.g., TLS in transit, platform security). No method is 100% secure.
+
+In‑App Purchases
+
+Purchases are processed by Apple. We do not receive your full payment method details. RevenueCat processes receipts and entitlements to unlock features (e.g., “Remove Ads”).
+
+Ads and Tracking
+
+IDFA/Identifiers: Used for ad personalization/measurement if permitted. In the EEA/UK, we request consent via UMP; if you decline, we serve non‑personalized ads where possible.
+Non‑personalized ads may still use limited data (e.g., frequency capping, fraud prevention) per partner policies and local law.
+You can reset the IDFA in iOS Settings and modify “Allow Apps to Request to Track.”
+EEA/UK Consent (Google UMP)
+
+When required, the App presents a consent form. Your choices govern personalized ads and similar technologies. You can withdraw consent at any time by:
+
+Adjusting consent when prompted again in the App (we will periodically re‑prompt as required), and/or
+Contacting us at [Contact Email] to request a consent reset in a future update, and
+Using system controls (e.g., iOS Tracking and Advertising settings).
+Changes to This Policy
+
+We may update this Policy to reflect changes in the App, laws, or partners. We will indicate the “Effective” date above. Continued use after updates indicates acceptance of the revised Policy.
+
+How to Contact Us
+
+Email: [Contact Email]
+Postal address (optional): [Address/Country]
+Supervisory authority (EEA/UK): you may lodge a complaint with your local authority (see https://edpb.europa.eu/about-edpb/about-edpb/members_en).
